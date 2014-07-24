@@ -1,0 +1,27 @@
+
+.page-header {
+  text-align: center;
+}
+
+.link-colored {
+  color: rgb(41, 128, 185) !important;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  padding: 5px;
+  background-color: lightgrey;
+  text-align: center;
+
+}
+
+.text-wrapper{
+  text-align: center;
+}
+
+.container-first{
+  margin-top: 2%;
+}
