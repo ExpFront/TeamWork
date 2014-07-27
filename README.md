@@ -1,3 +1,3 @@
 TeamWork
 ========
-This repository is for out team home task by @JustUseBrain.
+This repository is for our team's home task by @theaqua
