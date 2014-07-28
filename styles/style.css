@@ -1,3 +1,7 @@
+body{
+  font-family: "Helvetica Neue", "Helvetic", "Tahoma", "Arial", sans-serif;
+}
+
 a {
   color: rgb(41, 128, 185) !important;
 }
