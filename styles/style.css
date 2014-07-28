@@ -1,6 +1,17 @@
+@font-face {
+font-family: 'Helvetica Neue'; 
+src: url('fonts/HelveticaNeue-Thin.otf'); 
+} 
+
 body{
-  font-family: "Helvetica Neue", "Helvetic", "Tahoma", "Arial", sans-serif;
+  padding-top: 70px;
 }
+
+.navbar-brand {
+font-family: 'Helvetica Neue';
+font-size: 22px;
+letter-spacing: 2px;
+} 
 
 a {
   color: rgb(41, 128, 185) !important;
