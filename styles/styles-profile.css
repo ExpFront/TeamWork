@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'Helvetica Neue'; 
+  src: url('fonts/HelveticaNeue-Thin.otf'); 
+} 
+
+.navbar-brand {
+  font-family: 'Helvetica Neue';
+  font-size: 22px;
+  letter-spacing: 2px;
+} 
+
+.navbar-li:hover {
+  background-color: #F0F0F0;
+}
+
+.center-it {
+  text-align: center;
+}
+
+.username {
+  margin-bottom: 35px;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.profile-img {
+  border-radius: 50%;
+}
+
+.nmbr-1 {
+  text-align: right;
+  margin-right: 15px;
+}
+
+.nmbr-2 {
+  text-align: center;
+  margin-left: 20px;
+}
+
+.nmbr-3 {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.nmbr-4 {
+  margin-left: 25px;
+}
+
+.txt-1 {
+  text-align: right;
+}
+
+.txt-2 {
+  text-align: center;
+  margin-left: 20px;
+}
+
+.txt-3 {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.ach-block {
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.ach-img {
+  margin-bottom: 15px;
+  margin-left: 0px; 
+}
+
+.p-fix {
+  padding-left: 7px;
+}
+.mrgn-pls {
+  margin-top: 10px;
+}

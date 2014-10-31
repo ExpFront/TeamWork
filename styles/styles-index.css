@@ -1,0 +1,108 @@
+.imgrow {
+  margin-top: 3%;
+}
+
+.descr {
+  margin-top: 5%;
+}
+
+body {
+  padding: 70px;
+}
+
+.navbar-li:hover {
+  background-color: #F0F0F0;
+}
+h3 {
+  margin-top: 4px;
+}
+
+.duration {
+  font-size: 12px;
+  margin-left: 8px;
+}
+
+.face {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin-right: 6px;
+  margin-left: 6px;
+}
+.list-text {
+  font-size: 20px;
+}
+
+.center-it {
+  padding-left: auto;
+  padding-right: auto;
+}
+
+
+.courses-span {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.date-courses {
+  margin-bottom: 10px;
+}
+
+.courses-img {
+  width:110%;
+  height: 110%;
+}
+
+@media (max-width: 768px) {
+  .courses-img {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+.progress {
+  margin-top: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.progress-bar: {
+  margin-top: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue'; 
+  src: url('fonts/HelveticaNeue-Thin.otf'); 
+} 
+
+.navbar-brand {
+  font-family: 'Helvetica Neue';
+  font-size: 22px;
+  letter-spacing: 2px;
+}
+
+.courses-img {
+  border-radius: 10px;
+}
+
+.h-link {
+  color: #C0C0C0;
+}
+
+@media (min-width: 768px) {
+  .mobile {
+    display: none;
+  }
+
+}
+
+@media (max-width: 768px) {
+  .e-r-pc {
+    display: none;
+  }
+  .events-soon {
+    display: none;
+  }
+}
